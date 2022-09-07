@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "nombre": "Batman",
+        "marca": "comic",
+        "modelo": "2019",
+        "precio": 600,
+        "stock": 30,
+        "img": "batman.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "The killing joke",
+        "marca": "comic",
+        "modelo": "2020",
+        "precio": 350,
+        "stock": 20,
+        "img": "joker.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Harley Quinn",
+        "marca": "arte",
+        "modelo": "2021",
+        "precio": 5700,
+        "stock": 15,
+        "img": "harleyQuinn.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Batman",
+        "marca": "Arte",
+        "modelo": "C40",
+        "precio": 8000,
+        "stock": 30,
+        "img": "Batman1.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Justice league",
+        "marca": "comic",
+        "modelo": "2018",
+        "precio": 700,
+        "stock": 7,
+        "img": "justiceLeague.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Rebirth",
+        "marca": "comic",
+        "modelo": "2022",
+        "precio": 400,
+        "stock": 20,
+        "img": "rebirth.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "Superman",
+        "marca": "comic",
+        "modelo": "2020",
+        "precio": 250,
+        "stock": 10,
+        "img": "superman.jpg"
+    },
+    {
+        "id": 8,
+        "nombre": "Superman",
+        "marca": "comic",
+        "modelo": "2020",
+        "precio": 250,
+        "stock": 10,
+        "img": "superman.jpg"
+    }
+        
+]
